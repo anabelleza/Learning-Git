@@ -56,4 +56,4 @@ You can use the `terraform destroy` command to remove all resources defined in y
 Terraform applies updates by modifying existing resources rather than recreating them. This helps preserve data and configurations.
 
 ### 20. Can Terraform be used for managing third-party resources?
-Yes, Terraform has the capability to manage resources beyond AWS. It supports multiple providers, making it versatile for managing various cloud and on-premises resources.
+Yes, Terraform has the capability to manage resources beyond AWS. It supports multiple providers, making it versatile for managing various cloud and on-premises resources.THE END
